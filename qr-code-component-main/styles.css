@@ -10,6 +10,7 @@ body {
     display: flex;
     flex-direction: column;
     width: 361px;
+    height: 581px;
     background-color: hsl(0, 0%, 100%);
     margin: 10px;
     padding: 20px;
@@ -19,13 +20,13 @@ body {
 }
 
 .qr-code {
-    border-radius: 18px;
+    border-radius: 16.5px;
 }
 
 h1 {
     color: hsl(218, 44%, 22%);
     font-size: 27.685px;
-    margin-top: 26px;
+    margin-top: 26.698px;
 }
 
 p {
